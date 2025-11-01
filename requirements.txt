@@ -1,0 +1,9 @@
+transformers
+datasets
+torchaudio
+gradiop
+pandas
+numpy
+soundfile
+torch
+huggingface_hub
